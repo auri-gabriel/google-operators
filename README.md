@@ -31,3 +31,8 @@
 ## Example Queries
 - `intitle:"best restaurants" site:nytimes.com` - Returns pages containing the exact phrase "best restaurants" in the title, limited to the nytimes.com domain.
 - `"best pizza" -delivery` - Returns pages containing the exact phrase "best pizza", excluding results that contain the word "delivery".
+
+---
+
+[Google Search Operators & Advanced Search Techniques](https://support.google.com/websearch/answer/136861?hl=en)
+
