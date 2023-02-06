@@ -35,4 +35,6 @@
 ---
 
 [Google Search Operators & Advanced Search Techniques](https://support.google.com/websearch/answer/136861?hl=en)
+[Google Search Help Center: Search Operators & Advanced Search Techniques](https://support.google.com/websearch/answer/136861)
+
 
